@@ -1,8 +1,6 @@
 // Edit your ics sources here
 ics_sources = [
-    {url:'https://linkping.org/myevents.ics', title:'Nomagic Calendar', event_properties:{color: 'SeaGreen'}},
-    //    {url:'https://nomagic.uk/calendars/gov.uk/events.ics', title: 'UK Bank Holidays in England and Wales', event_properties: {color: 'DodgerBlue'}},
-    //  {url:'https://nomagic.uk/calendars/gouv.fr/events.ics', title: 'French Bank Holidays in Metropole', event_properties: {color: 'DeepPink'}}
+    {url:'https://linkping.org/myevents.ics', title:'Nomagic Calendar', event_properties:{color: 'SeaGreen'}}
 ]
 
 
