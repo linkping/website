@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+PRODID:-//Tutao GmbH//Tutanota 3.93.4//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20211013T050000Z
+DTEND:20211013T080000Z
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21633566522596@tutanota.com
+SEQUENCE:1
+SUMMARY:Watch amazing movie "Kong vs Godzilla"
+DESCRIPTION:<div dir="auto"><br></div>
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211025T040000Z
+DTEND:20211025T043000Z
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21633981081958@tutanota.com
+SEQUENCE:1
+SUMMARY:3D-printing
+DESCRIPTION:<div dir="auto"><br></div>
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211113T160000Z
+DTEND:20211113T190000Z
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21636822049404@tutanota.com
+SEQUENCE:2
+SUMMARY:3D - printing workshop 
+DESCRIPTION:<div dir="auto"><br></div>
+LOCATION:Linkping hackerspace
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211204T160000Z
+DTEND:20211204T190000Z
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21638620774833@tutanota.com
+SEQUENCE:1
+SUMMARY:3D-printing intro
+DESCRIPTION:<div dir="auto"><br></div>
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220108T150000Z
+DTEND:20220108T180000Z
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21641477558250@tutanota.com
+SEQUENCE:2
+SUMMARY:3D-modelling workshop
+DESCRIPTION:<div dir="auto">At the last workshop we installed freecad, so if you don't have it installed it can be a good idea to install it before the workshop. Call 073-1447287 to get in if you don't have a key.&nbsp\;&nbsp\;<br></div><div dir="auto">Ending time is approximate.&nbsp\;</div><div dir="auto"><a href="https://www.freecadweb.org/" rel="noopener noreferrer" target="_blank">https://www.freecadweb.org/</a><br></div><div dir="auto"><br></div>
+LOCATION:Snickaregatan 16B
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T170000Z
+DTEND:20220129T200000Z
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21642798024486@tutanota.com
+SEQUENCE:3
+SUMMARY:3D-printing workshop
+DESCRIPTION:<div dir="auto">Were going to try to 3D-print or at least model an idea that Godogg has for his car.&nbsp\;<br></div><div dir="auto">We're using freecad - its fine to come if you haven't been to the other workshops, but you might want to install freecad ahead of time.&nbsp\;<br></div><div dir="auto">Welcome!&nbsp\;<br></div><div dir="auto"><br></div><div dir="auto">Keys are needed to get in, so if you don't have one, call 073-1447287 and we'll help you.&nbsp\;&nbsp\;<br></div>
+LOCATION:Snickaregatan
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21646140741358@tutanota.com
+SEQUENCE:1
+SUMMARY:Fettisdagen 
+DESCRIPTION:<div dir="auto">Eat a semla! <br></div>
+LOCATION:All over the world
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T150000Z
+DTEND:20220220T180000Z
+DTSTAMP:20220301T132320Z
+UID:MlN8btK----21644967106547@tutanota.com
+SEQUENCE:3
+SUMMARY:Programming workshop
+DESCRIPTION:<div dir="auto">Contact rtn on IRC for further information.&nbsp\; Ending time is approximate. <br></div>
+LOCATION:Snickaregatan 
+ORGANIZER;EMAIL=linkping@tutanota.com:mailto:linkping@tutanota.com
+END:VEVENT
+END:VCALENDAR
